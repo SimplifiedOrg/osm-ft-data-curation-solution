@@ -1,0 +1,766 @@
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -127.27}
+{"description": "BANK OF AMERICA ATM 4706 SEATTLE WA", "amount": -234.41}
+{"description": "SQ *AMC 34TH ST 14 4070 BOSTON MA", "amount": -45.91}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -112.47}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1781.02}
+{"description": "AUTOPAY WALGREENS", "amount": -97.19}
+{"description": "POS 2624 MTA*NYCT PAYGO LOS ANGELES CA", "amount": -38.82}
+{"description": "POS 6383 SHELL OIL DENVER CO", "amount": -60.4}
+{"description": "POS 9041 BP# MIAMI FL", "amount": -93.43}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1400.08}
+{"description": "POS 9830 DUNKIN SEATTLE WA", "amount": -45.83}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -191.73}
+{"description": "POS 9796 WALGREENS ATLANTA GA", "amount": -34.22}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -216.61}
+{"description": "7-ELEVEN ATM 8133 AUSTIN TX", "amount": -398.96}
+{"description": "POS 2124 LYFT RIDE DENVER CO", "amount": -11.7}
+{"description": "POS 6568 BP# DENVER CO - REVERSAL", "amount": -51.37}
+{"description": "BANK OF AMERICA ATM 5400 SAN FRANCISC", "amount": -27.69}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -138.76}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 2198", "amount": -152.42}
+{"description": "POS 4598 CHICK-FIL-A SAN FRANCISC", "amount": -51.2}
+{"description": "POS 1651 MCDONALDS ATLANTA GA", "amount": -8.59}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 7518", "amount": -482.16}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -109.01}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 3042.76}
+{"description": "POS 6147 CHICK-FIL-A AUSTIN TX", "amount": -18.87}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 5819", "amount": -229.92}
+{"description": "POS 6425 COSTCO WHSE NEW YORK NY", "amount": -31.38}
+{"description": "AUTOPAY CON EDISON", "amount": -160.85}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -58.97}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 5937", "amount": -307.22}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1610.53}
+{"description": "POS 8616 WHOLEFDS BOSTON MA", "amount": -150.72}
+{"description": "SQ *DAVE AND BUSTERS 7824 DENVER CO", "amount": -52.4}
+{"description": "POS 9543 UBER TRIP SEATTLE WA", "amount": -22.24}
+{"description": "POS 3221 PLANET FITNESS BOSTON MA", "amount": -149.02}
+{"description": "CHASE ATM WITHDRAWAL 4511 AUSTIN TX", "amount": -266.0}
+{"description": "HULU", "amount": -50.79}
+{"description": "POS 8951 CVS/PHARMACY SAN FRANCISC", "amount": -25.97}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 8493", "amount": -332.64}
+{"description": "SQ *BEST BUY 1509 BOSTON MA", "amount": -215.83}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -122.84}
+{"description": "AMAZON PRIME", "amount": -11.11}
+{"description": "SQ *BEST BUY 5546 LOS ANGELES CA", "amount": -87.83}
+{"description": "POS 1319 SUBWAY LOS ANGELES CA", "amount": -56.03}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 2658.25}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 6878", "amount": -29.81}
+{"description": "POS 8611 COSTCO WHSE NEW YORK NY", "amount": -105.64}
+{"description": "POS 8668 DUNKIN DENVER CO", "amount": -18.08}
+{"description": "POS 5176 AMTRAK SAN FRANCISC", "amount": -43.05}
+{"description": "POS 8673 UBER TRIP LOS ANGELES CA", "amount": -8.91}
+{"description": "POS 3878 MTA*NYCT PAYGO CHICAGO IL", "amount": -18.97}
+{"description": "SQ *BEST BUY 3230 ATLANTA GA", "amount": -40.61}
+{"description": "POS 5500 AMTRAK ATLANTA GA", "amount": -5.36}
+{"description": "POS 3219 PLANET FITNESS SEATTLE WA", "amount": -143.35}
+{"description": "POS 5349 TARGET NEW YORK NY", "amount": -30.21}
+{"description": "SQ *AMZN MKTP US 6067 CHICAGO IL", "amount": -43.07}
+{"description": "CHASE ATM WITHDRAWAL 2110 SAN FRANCISC", "amount": -117.53}
+{"description": "SQ *BEST BUY 5179 LOS ANGELES CA", "amount": -225.15}
+{"description": "POS 9835 MCDONALDS AUSTIN TX", "amount": -43.93}
+{"description": "POS 3143 KROGER SEATTLE WA", "amount": -39.15}
+{"description": "SQ *DAVE AND BUSTERS 4921 DENVER CO", "amount": -35.73}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -75.98}
+{"description": "SQ *TICKETMASTER 4328 SAN FRANCISC", "amount": -35.03}
+{"description": "POS 4366 WALGREENS DENVER CO", "amount": -117.22}
+{"description": "POS 8744 DUNKIN AUSTIN TX", "amount": -47.94}
+{"description": "HULU - REVERSAL", "amount": -53.46}
+{"description": "POS 9153 CHEVRON ATLANTA GA", "amount": -41.45}
+{"description": "CHASE ATM WITHDRAWAL 4471 AUSTIN TX", "amount": -67.95}
+{"description": "SQ *REGAL CINEMAS 9843 AUSTIN TX", "amount": -70.35}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -110.31}
+{"description": "VENMO CASHOUT ACCT 8300", "amount": -248.53}
+{"description": "SQ *AMZN MKTP US 7718 NEW YORK NY", "amount": -69.75}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -196.47}
+{"description": "AMAZON PRIME", "amount": -52.4}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -103.15}
+{"description": "POS 5712 BP# DENVER CO", "amount": -42.64}
+{"description": "POS 9408 AMTRAK ATLANTA GA", "amount": -7.58}
+{"description": "SQ *REGAL CINEMAS 2753 LOS ANGELES CA", "amount": -51.95}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -49.23}
+{"description": "SQ *AMC 34TH ST 14 9204 SAN FRANCISC", "amount": -14.3}
+{"description": "SQ *DAVE AND BUSTERS 8635 LOS ANGELES CA", "amount": -74.23}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -78.57}
+{"description": "POS 9289 WAL-MART SAN FRANCISC", "amount": -14.13}
+{"description": "POS 9327 CHEVRON CHICAGO IL", "amount": -99.12}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -158.55}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -29.21}
+{"description": "SQ *TICKETMASTER 7179 ATLANTA GA", "amount": -58.23}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -21.99}
+{"description": "ACH DEBIT AT&T*BILL PAYMENT", "amount": -213.84}
+{"description": "SQ *AMZN MKTP US 5308 ATLANTA GA", "amount": -162.47}
+{"description": "POS 8193 PLANET FITNESS LOS ANGELES CA", "amount": -47.28}
+{"description": "DISNEY PLUS", "amount": -22.94}
+{"description": "SQ *DAVE AND BUSTERS 2260 SEATTLE WA", "amount": -23.0}
+{"description": "7-ELEVEN ATM 2641 LOS ANGELES CA", "amount": -233.82}
+{"description": "SQ *TICKETMASTER 7167 CHICAGO IL", "amount": -70.35}
+{"description": "SQ *AMC 34TH ST 14 3474 NEW YORK NY", "amount": -27.5}
+{"description": "POS 6620 PLANET FITNESS LOS ANGELES CA", "amount": -140.89}
+{"description": "VENMO CASHOUT ACCT 3636", "amount": -296.15}
+{"description": "POS 7211 KROGER SAN FRANCISC", "amount": -47.56}
+{"description": "POS 7965 CHEVRON LOS ANGELES CA", "amount": -73.56}
+{"description": "AUTOPAY CON EDISON", "amount": -177.04}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 3299", "amount": -228.65}
+{"description": "POS 4923 CHIPOTLE NEW YORK NY", "amount": -17.49}
+{"description": "POS 9540 KROGER MIAMI FL", "amount": -117.29}
+{"description": "POS 6862 WAL-MART AUSTIN TX", "amount": -126.59}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 1950.19}
+{"description": "DISNEY PLUS", "amount": -73.18}
+{"description": "NETFLIX.COM", "amount": -59.97}
+{"description": "POS 3330 EXXONMOBIL LOS ANGELES CA", "amount": -34.77}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 2196.69}
+{"description": "POS 8538 LYFT RIDE SAN FRANCISC", "amount": -6.7}
+{"description": "POS 9022 EXXONMOBIL CHICAGO IL", "amount": -65.72}
+{"description": "POS 8847 UBER TRIP BOSTON MA", "amount": -20.9}
+{"description": "POS 3847 CHEVRON DENVER CO - FRAUD ALERT", "amount": -36.01}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 1524.44}
+{"description": "SQ *BEST BUY 3545 DENVER CO", "amount": -91.79}
+{"description": "POS 3664 CHIPOTLE SAN FRANCISC", "amount": -23.9}
+{"description": "CHASE QUICKP?Y ?RANSFER AC#T 1144", "amount": -66.21}
+{"description": "ACH DEBIT CON EDISON", "amount": -199.51}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 6889", "amount": -75.81}
+{"description": "7-ELEVEN ATM 8937 DENVER CO", "amount": -349.53}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -81.9}
+{"description": "POS 8015 WALGREENS CHICAGO IL", "amount": -122.03}
+{"description": "SQ *AMC 34TH ST 14 4764 AUSTIN TX", "amount": -82.1}
+{"description": "SQ *AMZN MKTP US 1920 AUSTIN TX - FRAUD ALERT", "amount": -156.39}
+{"description": "SQ *MACYS 5979 ATLANTA GA", "amount": -72.01}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 930.23}
+{"description": "NETFLIX.COM", "amount": -26.38}
+{"description": "7-ELEVEN ATM 1138 AUSTIN TX", "amount": -115.91}
+{"description": "POS 8269 SHELL OIL CHICAGO IL", "amount": -85.52}
+{"description": "NETFLIX.COM", "amount": -43.65}
+{"description": "SQ *REGAL CINEMAS 7887 SAN FRANCISC", "amount": -89.43}
+{"description": "7-ELEVEN ATM 4619 ATLANTA GA", "amount": -59.56}
+{"description": "POS 2545 MCDONALDS LOS ANGELES CA", "amount": -40.9}
+{"description": "DISNEY PLUS", "amount": -42.22}
+{"description": "POS 3153 AMTRAK LOS ANGELES CA", "amount": -41.2}
+{"description": "SQ *DAVE AND BUSTERS 2692 NEW YORK NY", "amount": -17.17}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 3126.03}
+{"description": "SQ *THE HOME DEPOT 1981 CHICAGO IL", "amount": -182.24}
+{"description": "POS 9691 UBER TRIP AUSTIN TX", "amount": -18.8}
+{"description": "POS 2204 MTA*NYCT PAYGO LOS ANGELES CA", "amount": -16.53}
+{"description": "ZELLE TRANSFER ACCT 7678", "amount": -200.14}
+{"description": "POS 1128 DUNKIN DENVER CO", "amount": -20.77}
+{"description": "7-ELEVEN ATM 2609 AUSTIN TX", "amount": -71.07}
+{"description": "NETFLIX.COM", "amount": -67.62}
+{"description": "POS 9006 24 HOUR FITNESS CHICAGO IL", "amount": -93.5}
+{"description": "SQ *DAVE AND BUSTERS 8520 ATLANTA GA", "amount": -29.46}
+{"description": "AMAZON PRIME", "amount": -9.94}
+{"description": "AUTOPAY WALGREENS", "amount": -143.81}
+{"description": "SQ *REGAL CINEMAS 9180 DENVER CO", "amount": -62.37}
+{"description": "AUTOPAY WALGREENS", "amount": -100.09}
+{"description": "SQ *TICKETMASTER 6253 AUSTIN TX", "amount": -34.14}
+{"description": "SQ *TICKETMASTER 9005 MIAMI FL", "amount": -46.87}
+{"description": "POS 1672 WAL-MART SAN FRANCISC", "amount": -101.5}
+{"description": "POS 4257 DUNKIN DENVER CO", "amount": -27.49}
+{"description": "VENMO CASHOUT ACCT 7381", "amount": -339.92}
+{"description": "POS 3002 AMTRAK BOSTON MA", "amount": -17.85}
+{"description": "SQ *REGAL CINEMAS 7383 SAN FRANCISC", "amount": -38.86}
+{"description": "AMAZON PRIME", "amount": -70.5}
+{"description": "POS 8565 AMTRAK MIAMI FL", "amount": -4.58}
+{"description": "SQ *AMC 34TH ST 14 6580 ATLANTA GA", "amount": -71.52}
+{"description": "7-ELEVEN ATM 7506 ATLANTA GA", "amount": -58.88}
+{"description": "SQ *AMC 34TH ST 14 1527 BOSTON MA", "amount": -59.19}
+{"description": "DISNEY PLUS", "amount": -55.87}
+{"description": "POS 5562 MCDONALDS MIAMI FL", "amount": -16.0}
+{"description": "SQ *AMZN MKTP US 2020 BOSTON MA", "amount": -170.67}
+{"description": "VENMO CASHOUT ACCT 1654", "amount": -85.31}
+{"description": "POS 3785 CHEVRON CHICAGO IL", "amount": -36.32}
+{"description": "POS 5673 SUBWAY BOSTON MA", "amount": -43.01}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -34.66}
+{"description": "POS 8478 WAL-MART CHICAGO IL", "amount": -146.64}
+{"description": "POS 5460 BP# DENVER CO", "amount": -73.2}
+{"description": "POS 7043 KROGER CHICAGO IL", "amount": -113.79}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2503.79}
+{"description": "POS 5325 MCDONALDS DENVER CO", "amount": -31.36}
+{"description": "SQ *AMZN MKTP US 5005 LOS ANGELES CA", "amount": -232.29}
+{"description": "AUTOPAY CON EDISON", "amount": -83.39}
+{"description": "POS 3426 COSTCO WHSE BOSTON MA", "amount": -33.41}
+{"description": "POS 6003 BP# ATLANTA GA", "amount": -79.68}
+{"description": "ACH DEBIT CON EDISON", "amount": -126.56}
+{"description": "POS 5381 UBER TRIP NEW YORK NY", "amount": -10.58}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -61.97}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 3248.66}
+{"description": "POS 3621 MCDONALDS BOSTON MA", "amount": -37.4}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1915.39}
+{"description": "DISNEY PLUS - DISPUTE", "amount": -38.65}
+{"description": "SQ *MACYS 9173 BOSTON MA", "amount": -222.45}
+{"description": "SQ *AMZN MKTP US 4522 SAN FRANCISC", "amount": -49.86}
+{"description": "SQ *MACYS 3007 NEW YORK NY", "amount": -236.44}
+{"description": "POS 6279 COSTCO WHSE MIAMI FL", "amount": -86.22}
+{"description": "POS 8511 PLANET FITNESS SAN FRANCISC", "amount": -123.44}
+{"description": "BANK OF AMERICA ATM 4056 MIAMI FL", "amount": -36.95}
+{"description": "HULU", "amount": -78.56}
+{"description": "SPOTIFY USA", "amount": -53.45}
+{"description": "POS 1861 UBER TRIP CHICAGO IL", "amount": -9.61}
+{"description": "7-ELEVEN ATM 5225 SAN FRANCISC", "amount": -366.11}
+{"description": "POS 2124 SAFEWAY NEW YORK NY", "amount": -138.71}
+{"description": "SQ *THE HOME DEPOT 4201 DENVER CO", "amount": -193.71}
+{"description": "SQ *REGAL CINEMAS 4555 MIAMI FL", "amount": -26.71}
+{"description": "SQ *BEST BUY 8404 SEATTLE WA", "amount": -123.89}
+{"description": "POS 3662 TARGET CHICAGO IL - REVERSAL", "amount": -160.08}
+{"description": "BANK OF AMERICA ATM 7709 DENVER CO", "amount": -27.62}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1642.65}
+{"description": "SQ *TICKETMASTER 1256 AUSTIN TX", "amount": -56.96}
+{"description": "VENMO CASHOUT ACCT 7762", "amount": -305.24}
+{"description": "POS 9903 EXXONMOBIL BOSTON MA", "amount": -66.43}
+{"description": "POS 3174 CVS/PHARMACY AUSTIN TX", "amount": -112.48}
+{"description": "BANK OF AMERICA ATM 3356 ATLANTA GA", "amount": -251.29}
+{"description": "SQ *REGAL CINEMAS 7999 DENVER CO", "amount": -49.65}
+{"description": "SQ *DAVE AND BUSTERS 7154 LOS ANGELES CA", "amount": -64.62}
+{"description": "POS 2535 STARBUCKS AUSTIN TX", "amount": -17.03}
+{"description": "SQ *BEST BUY 9064 DENVER CO", "amount": -87.63}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -71.43}
+{"description": "SQ *DAVE AND BUSTERS 9743 SAN FRANCISC", "amount": -34.67}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 3519", "amount": -21.64}
+{"description": "AMAZON PRIME", "amount": -59.53}
+{"description": "POS 8752 COSTCO WHSE CHICAGO IL", "amount": -122.69}
+{"description": "POS 8195 EXXONMOBIL LOS ANGELES CA", "amount": -67.5}
+{"description": "BANK OF AMERICA ATM 6026 SEATTLE WA", "amount": -68.39}
+{"description": "ZELLE TRANSFER ACCT 6258", "amount": -196.87}
+{"description": "POS 6383 LYFT RIDE CHICAGO IL", "amount": -36.12}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -70.55}
+{"description": "SQ *MACYS 3735 SAN FRANCISC", "amount": -44.83}
+{"description": "POS 4020 EXXONMOBIL NEW YORK NY", "amount": -50.2}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -134.53}
+{"description": "POS 7745 KROGER AUSTIN TX", "amount": -56.82}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -6.94}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 3208.57}
+{"description": "SQ *REGAL CINEMAS 5927 CHICAGO IL", "amount": -74.46}
+{"description": "POS 2882 AMTRAK SEATTLE WA", "amount": -27.11}
+{"description": "POS 1106 CHIPOTLE CHICAGO IL", "amount": -43.1}
+{"description": "AUTOPAY CON EDISON", "amount": -181.83}
+{"description": "SQ *TICKETMASTER 1280 DENVER CO", "amount": -75.05}
+{"description": "POS 6139 SAFEWAY BOSTON MA", "amount": -113.84}
+{"description": "CHASE ATM WITHDRAWAL 5831 NEW YORK NY", "amount": -141.11}
+{"description": "POS 1241 DUNKIN LOS ANGELES CA", "amount": -55.88}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 3024.38}
+{"description": "POS 4814 STARBUCKS LOS ANGELES CA", "amount": -25.29}
+{"description": "ACH DEBIT CON EDISON", "amount": -200.72}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -90.67}
+{"description": "CHASE ATM WITHDRAWAL 5237 LOS ANGELES CA", "amount": -128.33}
+{"description": "SQ *MACYS 9743 NEW YORK NY", "amount": -194.55}
+{"description": "HULU", "amount": -54.64}
+{"description": "7-ELEVEN ATM 1145 MIAMI FL", "amount": -366.38}
+{"description": "SQ *TICKETMASTER 3773 CHICAGO IL", "amount": -67.63}
+{"description": "POS 6296 EXXONMOBIL LOS ANGELES CA", "amount": -107.61}
+{"description": "VENMO CASHOUT ACCT 3903", "amount": -348.99}
+{"description": "POS 8736 BP# AUSTIN TX", "amount": -66.54}
+{"description": "POS 8651 SUBWAY NEW YORK NY", "amount": -41.71}
+{"description": "POS 7367 LYFT RIDE MIAMI FL", "amount": -18.58}
+{"description": "SQ *THE HOME DEPOT 7939 BOSTON MA", "amount": -34.37}
+{"description": "POS 6567 AMTRAK SAN FRANCISC", "amount": -3.26}
+{"description": "POS 3419 AMTRAK AUSTIN TX", "amount": -7.32}
+{"description": "POS 9619 MTA*NYCT PAYGO LOS ANGELES CA", "amount": -34.32}
+{"description": "BANK OF AMERICA ATM 8715 MIAMI FL", "amount": -360.05}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 9309", "amount": -319.5}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -175.94}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 906.4}
+{"description": "ACH DEBIT CON EDISON", "amount": -177.3}
+{"description": "POS 5915 CHICK-FIL-A MIAMI FL", "amount": -21.71}
+{"description": "POS 5333 MCDONALDS LOS ANGELES CA", "amount": -53.82}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 1809.5}
+{"description": "SQ *BEST BUY 9515 BOSTON MA", "amount": -179.7}
+{"description": "POS 3485 SHELL OIL CHICAGO IL", "amount": -94.89}
+{"description": "POS 8260 STARBUCKS DENVER CO", "amount": -9.48}
+{"description": "POS 7689 AMTRAK LOS ANGELES CA", "amount": -8.87}
+{"description": "SQ *BEST BUY 4246 BOSTON MA", "amount": -102.48}
+{"description": "POS 5771 BP# NEW YORK NY", "amount": -48.52}
+{"description": "SQ *THE HOME DEPOT 4678 SAN FRANCISC", "amount": -73.34}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 2647.92}
+{"description": "SQ *MACYS 5276 SAN FRANCISC", "amount": -232.62}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 944.93}
+{"description": "ACH DEBIT AT&T*BILL PAYMENT", "amount": -155.46}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -209.9}
+{"description": "POS 3361 SHELL OIL BOSTON MA", "amount": -99.67}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -38.24}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 2995.58}
+{"description": "POS 8692 SHELL OIL SEATTLE WA", "amount": -57.08}
+{"description": "POS 7965 WAL-MART AUSTIN TX", "amount": -41.55}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 1803.54}
+{"description": "ZELLE TRANSFER ACCT 4532", "amount": -233.95}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -101.62}
+{"description": "SQ *BEST BUY 6301 NEW YORK NY", "amount": -20.15}
+{"description": "POS 1231 EXXONMOBIL DENVER CO", "amount": -40.13}
+{"description": "POS 8022 WAL-MART CHICAGO IL", "amount": -157.63}
+{"description": "POS 7561 EXXONMOBIL DENVER CO", "amount": -32.94}
+{"description": "POS 5719 CHEVRON MIAMI FL", "amount": -100.47}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 1745", "amount": -353.43}
+{"description": "BANK OF AMERICA ATM 9514 MIAMI FL - REVERSAL", "amount": -368.52}
+{"description": "POS 6198 COSTCO WHSE MIAMI FL", "amount": -114.93}
+{"description": "POS 6635 CHIPOTLE ATLANTA GA", "amount": -18.81}
+{"description": "SQ *TICKETMASTER 8286 SAN FRANCISC", "amount": -70.91}
+{"description": "SQ *THE HOME DEPOT 7471 MIAMI FL", "amount": -21.93}
+{"description": "ZELLE TRANSFER ACCT 5832", "amount": -480.47}
+{"description": "POS 4006 SUBWAY SEATTLE WA", "amount": -29.91}
+{"description": "SQ *THE HOME DEPOT 2129 MIAMI FL", "amount": -218.52}
+{"description": "POS 8529 EXXONMOBIL SEATTLE WA", "amount": -83.35}
+{"description": "AUTOPAY WALGREENS", "amount": -67.45}
+{"description": "POS 5978 WAL-%ART SEATTLE __", "amount": -47.31}
+{"description": "AMAZON PRIME", "amount": -27.03}
+{"description": "SQ *AMZN MKTP US 1195 NEW YORK NY", "amount": -210.14}
+{"description": "AMAZON PRIME", "amount": -13.83}
+{"description": "POS 6766 WALGREE#S MIAM# F_", "amount": -125.79}
+{"description": "POS 73", "amount": -124.37}
+{"description": "SQ *AMC 34TH ST 14 4943 AUSTIN TX", "amount": -15.38}
+{"description": "POS 2139 MCDONALDS NEW YORK NY", "amount": -41.03}
+{"description": "CHASE ATM WITHDRAWAL 7783 MIAMI FL", "amount": -355.07}
+{"description": "POS 9633 MTA*NYCT PAYGO SEATTLE WA", "amount": -4.91}
+{"description": "POS 5573 WAL-MART SAN FRANCISC", "amount": -119.77}
+{"description": "ZELLE TRANSFER ACCT 1414", "amount": -196.63}
+{"description": "POS 6562 AMTRAK AUSTI", "amount": -16.99}
+{"description": "POS 9565 DUNKIN SAN FRANCISC", "amount": -56.34}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 8870", "amount": -295.58}
+{"description": "7-ELEVEN ATM 3415 LOS ANGELES CA", "amount": -380.72}
+{"description": "ZELLE TRANSFER ACCT 6866", "amount": -45.71}
+{"description": "SPOTIFY USA", "amount": -58.7}
+{"description": "SQ *TICKETMASTER 2320 NEW YORK NY", "amount": -17.48}
+{"description": "POS 9693 UBER TRIP DENVER CO", "amount": -11.14}
+{"description": "POS 5681 WAL-MART AUSTIN TX", "amount": -57.65}
+{"description": "AUTOPAY CON EDISON", "amount": -88.21}
+{"description": "POS 1828 UBER TRIP SAN FRANCISC", "amount": -13.23}
+{"description": "DIRECT DEP PAYCHEX", "amount": 2071.11}
+{"description": "POS 5786 SHELL OIL CHICAGO IL", "amount": -81.03}
+{"description": "POS 3725 WALGREENS ATLANTA GA", "amount": -93.22}
+{"description": "SQ *AMC 34TH ST 14 4977 ATLANTA GA", "amount": -51.69}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2591.06}
+{"description": "POS 3340 CVS/PHARMACY LOS ANGELES CA", "amount": -99.34}
+{"description": "POS 7209 WHOLEFDS SAN FRANCISC", "amount": -16.82}
+{"description": "BANK OF AMERICA ATM 6094 SEATTLE WA", "amount": -340.28}
+{"description": "SQ *BEST BUY 8717 LOS ANGELES CA", "amount": -18.92}
+{"description": "POS 6881 BP# ATLANTA GA", "amount": -53.67}
+{"description": "DISNEY PLUS", "amount": -44.21}
+{"description": "ACH DEBIT CON EDISON", "amount": -181.29}
+{"description": "POS 8601 MTA*NYCT PAYGO ATLANTA GA", "amount": -34.91}
+{"description": "VENMO CASHOUT ACCT 4913", "amount": -425.51}
+{"description": "POS 7267 WAL-MART NEW YORK NY", "amount": -156.24}
+{"description": "ACH DEBIT CON EDISON", "amount": -140.07}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -91.26}
+{"description": "POS 7240 AMTRAK ATLANTA GA", "amount": -25.28}
+{"description": "POS 6728 WHOLEFDS SEATTLE WA", "amount": -149.85}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -16.05}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -69.93}
+{"description": "POS 1842 MTA*NYCT PAYGO SEATTLE WA", "amount": -28.22}
+{"description": "SQ *MACYS 5444 LOS ANGELES CA", "amount": -149.31}
+{"description": "ZELLE TRANSFER ACCT 9418", "amount": -68.48}
+{"description": "POS 2180 AMTRAK BOSTON MA", "amount": -39.19}
+{"description": "POS 2501 MTA*NYCT PAYGO AUSTIN TX", "amount": -29.95}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -208.27}
+{"description": "SQ *TICKETMASTER 1356 BOSTON MA - PENDING", "amount": -30.36}
+{"description": "HULU", "amount": -15.32}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 7790", "amount": -32.79}
+{"description": "AUTOPAY CON EDISON", "amount": -148.9}
+{"description": "POS 9837 WAL-MART NEW YORK NY", "amount": -179.98}
+{"description": "BANK OF AMERICA ATM 3573 NEW YORK NY", "amount": -58.48}
+{"description": "POS 1525 MCDONALDS SAN FRANCISC", "amount": -26.47}
+{"description": "POS 4263 EXXONMOBIL BOSTON MA", "amount": -98.27}
+{"description": "ZELLE TRANSFER ACCT 5312", "amount": -369.44}
+{"description": "7-ELEVEN ATM 9043 CHICAGO IL - DISPUTE", "amount": -40.71}
+{"description": "SPOTIFY USA", "amount": -40.67}
+{"description": "POS 5011 WAL-MART MIAMI FL", "amount": -114.69}
+{"description": "ZELLE TRA", "amount": -153.85}
+{"description": "7-ELEVEN ATM 4860 MIAMI FL", "amount": -133.56}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 2072", "amount": -113.28}
+{"description": "POS 7086 MTA*NYCT PAYGO LOS ANGELES CA", "amount": -31.34}
+{"description": "SQ *THE HOME DEPOT 3435 NEW YORK NY", "amount": -159.32}
+{"description": "SQ *DAVE AND BUSTERS 9592 SAN FRANCISC", "amount": -65.7}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 9419", "amount": -50.35}
+{"description": "AUTOPAY WALGREENS", "amount": -35.32}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -22.88}
+{"description": "7-ELEVEN ATM 7415 ATLANTA GA", "amount": -32.31}
+{"description": "POS 6992 MTA*NYCT PAYGO LOS ANGELES CA - DECLINED", "amount": -36.21}
+{"description": "VENMO CASHOUT ACCT 9255", "amount": -275.82}
+{"description": "POS 6179 AMTRAK CHICAGO IL", "amount": -21.47}
+{"description": "SQ *DAVE AND BUSTERS 1797 AUSTIN TX", "amount": -69.24}
+{"description": "SQ *DAVE AND BUSTERS 8484 ATLANTA GA", "amount": -14.62}
+{"description": "POS 8894 AMTRAK SEATTLE WA", "amount": -34.36}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -191.5}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -140.95}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 9529", "amount": -43.41}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2918.85}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -28.16}
+{"description": "POS 7105 UBER TRIP CHICAGO IL", "amount": -26.37}
+{"description": "POS 5462 MCDONALDS SEATTLE WA", "amount": -37.87}
+{"description": "SQ *MACYS 8859 DENVER CO", "amount": -198.64}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 1107.35}
+{"description": "AUTOPAY CON EDISON", "amount": -146.46}
+{"description": "7-ELEVEN ATM 2584 LOS ANGELES CA", "amount": -273.89}
+{"description": "POS 4954 SH_LL OI% BO?TON MA", "amount": -69.09}
+{"description": "ZELLE TRANSFER ACCT 3636", "amount": -491.93}
+{"description": "SQ *AMC 34TH ST 14 8916 MIAMI FL", "amount": -11.26}
+{"description": "POS 2827 CHIPOTLE SEATTLE WA", "amount": -28.35}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -51.46}
+{"description": "SQ *REGAL CINEMAS 7775 SEATTLE WA", "amount": -32.01}
+{"description": "POS 5066 SHELL OIL LOS ANGELES CA", "amount": -74.65}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -144.84}
+{"description": "POS 3504 LYFT RIDE LOS ANGELES CA", "amount": -10.44}
+{"description": "POS 8517 CHICK-FIL-A CHICAGO IL", "amount": -18.83}
+{"description": "POS 2876 SAFEWAY CHICAGO IL", "amount": -174.07}
+{"description": "SQ *AMZN MKTP US 2565 DENVER CO", "amount": -46.38}
+{"description": "DISNEY PLUS", "amount": -15.18}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 3316 - DECLINED", "amount": -70.39}
+{"description": "AUT?P%Y CON ED%SON", "amount": -148.21}
+{"description": "SQ *REGAL CINEMAS 3390 NEW YORK NY", "amount": -30.86}
+{"description": "POS 7812 WHOLEFDS NEW YORK NY", "amount": -46.75}
+{"description": "SQ *MACYS 6211 MIAMI FL", "amount": -78.91}
+{"description": "POS 1266 24 HOUR FITNESS LOS ANGELES CA - FRAUD ALERT", "amount": -77.37}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1107.86}
+{"description": "SQ *DAVE AND BUSTERS 4043 ATLANTA GA", "amount": -62.85}
+{"description": "ZELLE TRANSFER ACCT 5033", "amount": -394.97}
+{"description": "AUTOPAY WALGREENS", "amount": -34.81}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1405.67}
+{"description": "POS 5920 SAFEWAY DENVER CO", "amount": -63.96}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -173.33}
+{"description": "SQ *AMZN MKTP US 3582 SEATTLE WA", "amount": -209.2}
+{"description": "AUTOPAY WALGREENS", "amount": -91.03}
+{"description": "POS 5415 SHELL OIL ATLANTA GA", "amount": -33.22}
+{"description": "POS 5844 WHOLEFDS DENVER CO", "amount": -33.38}
+{"description": "HULU", "amount": -13.34}
+{"description": "ACH DEBIT CON EDISON", "amount": -43.37}
+{"description": "POS 1200 SHELL OIL A", "amount": -52.75}
+{"description": "ZELLE TRANSFER ACCT 7704", "amount": -62.41}
+{"description": "POS 4505 TARGET LOS ANGELES CA", "amount": -81.7}
+{"description": "POS 5558 WHOLEFDS BOSTON MA", "amount": -54.38}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1733.52}
+{"description": "ZELLE TRANSFER ACCT 9689", "amount": -370.74}
+{"description": "ACH DEBIT CON EDISON", "amount": -148.71}
+{"description": "POS 2494 24 HOUR FITNESS LOS ANGELES CA", "amount": -47.74}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 6971", "amount": -405.77}
+{"description": "POS 5560 CVS/PHARMACY LOS ANGELES CA", "amount": -123.94}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2761.68}
+{"description": "ACH DEBIT PGANDE WEB PYMT", "amount": -153.75}
+{"description": "SQ *AMZN MKTP US 3938 AUSTIN TX", "amount": -204.02}
+{"description": "POS 1152 STARBUCKS MIA", "amount": -38.78}
+{"description": "POS 9167 EXXONMOBIL MIAMI FL", "amount": -90.8}
+{"description": "CHASE ATM WITHDRAWAL 2817 DENVER CO", "amount": -347.05}
+{"description": "POS 2591 LYFT RIDE NEW YORK NY", "amount": -15.98}
+{"description": "AUTOPAY CON EDISON", "amount": -107.87}
+{"description": "CHASE ATM WITHDRAWAL 6600 CHICAGO IL", "amount": -357.41}
+{"description": "ACH DEBIT PGANDE WEB PYMT", "amount": -84.12}
+{"description": "POS 4626 AMTRAK LOS ANGELES CA", "amount": -29.69}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 7251", "amount": -199.9}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2151.29}
+{"description": "POS 4727 EXXONMOBIL LOS ANGELES CA", "amount": -64.72}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -66.54}
+{"description": "POS 4868 MTA*NYCT PAYGO SAN FRANCISC", "amount": -7.17}
+{"description": "SQ *AMZN MKTP US 6081 BOSTON MA", "amount": -186.54}
+{"description": "POS 5505 LYFT RIDE ATLANTA GA", "amount": -29.59}
+{"description": "POS 2200 STARBUCKS DENVER CO", "amount": -15.94}
+{"description": "GOOGLE *YOUTUBEPREM - PENDING", "amount": -76.21}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 4485", "amount": -454.09}
+{"description": "POS 4155 SHELL OIL SAN FRANCISC", "amount": -39.56}
+{"description": "POS 6491 SAFEWAY LOS ANGELES CA", "amount": -149.5}
+{"description": "ZELLE TRANSFER ACCT 2343", "amount": -422.48}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -52.96}
+{"description": "ZELLE TRANSFER ACCT 4342 - FRAUD ALERT", "amount": -379.26}
+{"description": "POS 3697 STARBUCKS BOSTON MA", "amount": -4.12}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2754.19}
+{"description": "POS 4608 MCDONALDS NEW YORK NY", "amount": -7.98}
+{"description": "ZELLE TRANSFER ACCT 6273", "amount": -257.01}
+{"description": "POS 4404 SHELL OIL AUSTIN TX", "amount": -51.17}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -80.2}
+{"description": "BANK OF AMERICA ATM 5128 AUSTIN TX", "amount": -197.35}
+{"description": "SPOTIF", "amount": -54.83}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 5684", "amount": -439.96}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2882.37}
+{"description": "SQ *TICKETMASTER 5037 LOS ANGELES CA", "amount": -16.56}
+{"description": "POS 3060 DUNKIN CHICAGO IL", "amount": -40.95}
+{"description": "SQ *TICKETMASTER 9897 ATLANTA GA", "amount": -62.65}
+{"description": "BANK OF AMERICA ATM 4262 SEATTLE WA", "amount": -159.97}
+{"description": "VENMO CASHOUT ACCT 7609", "amount": -55.05}
+{"description": "SQ *AMC 34TH ST 14 1104 BOSTON MA", "amount": -21.0}
+{"description": "POS 9821 COSTCO WHSE AUSTIN TX", "amount": -73.19}
+{"description": "POS 2679 MCDONALDS DENVER CO", "amount": -8.87}
+{"description": "POS 4853 STARBUCKS BOSTON MA", "amount": -10.71}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1769.98}
+{"description": "POS 4249 WHOLEFDS LOS ANGELES CA", "amount": -111.47}
+{"description": "VENMO CASHOUT ACCT 2394", "amount": -159.3}
+{"description": "BANK OF AMERICA ATM 5511 BOSTON MA", "amount": -360.28}
+{"description": "POS 6432 24 HOUR FITNESS BOSTON MA", "amount": -21.37}
+{"description": "7-ELEVEN ATM 9561 BOSTON MA", "amount": -62.76}
+{"description": "HULU", "amount": -8.28}
+{"description": "POS 3704 SAFEWAY MIAMI FL", "amount": -166.48}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1758.88}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -14.67}
+{"description": "POS 9939 CVS/PHARMACY CHICAGO IL", "amount": -143.89}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -60.55}
+{"description": "BANK OF AMERICA ATM 1507 BOSTON MA", "amount": -378.13}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -45.81}
+{"description": "POS 1422 UBER TRIP CHICAGO IL", "amount": -3.62}
+{"description": "BANK OF AMERICA ATM 8869 AUSTIN TX", "amount": -56.86}
+{"description": "POS 8988 CHEVRON AUSTIN TX", "amount": -58.39}
+{"description": "POS 6304 LYFT RIDE NEW YORK NY", "amount": -10.32}
+{"description": "7-ELEVEN ATM 5781 LOS ANGELES CA", "amount": -199.96}
+{"description": "POS 6111 WAL-MART ATLANTA GA", "amount": -125.79}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -97.59}
+{"description": "POS 2070 SHELL OIL BOSTON MA", "amount": -69.34}
+{"description": "SQ *THE HOME DEPOT 6813 CHICAGO IL", "amount": -56.38}
+{"description": "NETFLIX.COM", "amount": -32.25}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -167.01}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 2662.74}
+{"description": "POS 7658 MCDONALDS MIAMI FL", "amount": -30.96}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -148.79}
+{"description": "CHASE ATM WITHDRAWAL 9962 LOS ANGELES CA", "amount": -148.42}
+{"description": "HULU", "amount": -23.9}
+{"description": "POS 2669 TARGET SEATTLE WA", "amount": -154.85}
+{"description": "DISNEY PLUS", "amount": -65.09}
+{"description": "SPOTIFY USA", "amount": -74.79}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 3091.88}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -190.87}
+{"description": "BANK OF AMERICA ATM 9775 SAN FRANCISC", "amount": -353.6}
+{"description": "POS 2099 MTA*NYCT PAYGO LOS ANGELES CA", "amount": -37.93}
+{"description": "POS 2166 BP# AUSTIN TX", "amount": -103.91}
+{"description": "POS 1878 24 HOUR FITNESS SAN FRANCISC", "amount": -83.0}
+{"description": "ACH DEBIT AT&T*BILL PAYMENT", "amount": -49.45}
+{"description": "POS 8373 WHOLEFDS SEATTLE WA", "amount": -138.3}
+{"description": "POS 2420 CVS/PHARMACY LOS ANGELES CA", "amount": -117.82}
+{"description": "POS 1333 TARGET ATLANTA GA", "amount": -37.6}
+{"description": "ZELLE TRANSFER ACCT 8982", "amount": -476.25}
+{"description": "POS 5186 LYFT RIDE SEATTLE WA - REVERSAL", "amount": -16.78}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 3469.4}
+{"description": "POS 5425 SAFEWAY ATLANTA GA", "amount": -147.78}
+{"description": "BANK OF AMERICA ATM 2661 MIAMI FL", "amount": -319.72}
+{"description": "SQ *DAVE AND BUSTERS 5441 NEW YORK NY", "amount": -83.93}
+{"description": "SQ *AMZN MKTP US 5006 NEW YORK NY", "amount": -125.86}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 7025", "amount": -380.0}
+{"description": "POS 8138 LYFT RIDE ATLANTA GA", "amount": -19.82}
+{"description": "POS 5022 KROGER LOS ANGELES CA", "amount": -58.86}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2606.36}
+{"description": "SQ *AMC 34TH ST 14 1742 BOSTON MA", "amount": -37.56}
+{"description": "DIRECT DEP PAYCHEX", "amount": 3427.42}
+{"description": "AMAZON PRIME", "amount": -13.31}
+{"description": "POS 5901 EXXONMOBIL BOSTON MA", "amount": -85.23}
+{"description": "POS 7991 COSTCO WHSE DENVER CO", "amount": -86.91}
+{"description": "POS 4114 WHOLEFDS SEATTLE WA", "amount": -19.46}
+{"description": "POS 5000 CHEVRON DENVER CO", "amount": -62.96}
+{"description": "AUTOPAY CON EDISON", "amount": -202.97}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -102.62}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1725.21}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1433.16}
+{"description": "POS 7532 MTA*NYCT PAYGO BOSTON MA", "amount": -33.64}
+{"description": "POS 9320 STARBUCKS LOS ANGELES CA", "amount": -51.68}
+{"description": "POS 9510 CVS/PHARMACY MIAMI FL", "amount": -21.05}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1613.01}
+{"description": "SQ *MACYS 1462 SAN FRANCISC", "amount": -237.68}
+{"description": "SQ *REGAL CINEMAS 4648 NEW YORK NY", "amount": -70.49}
+{"description": "SQ *MACYS 4813 CHICAGO IL", "amount": -38.53}
+{"description": "BANK OF AMERICA ATM 4727 DENVER CO", "amount": -43.17}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -48.6}
+{"description": "POS 1715 BP# SAN FRANCISC", "amount": -89.58}
+{"description": "SQ *DAVE AND BUSTERS 9038 AUSTIN TX", "amount": -38.46}
+{"description": "POS 2320 COSTCO WHSE CHICAGO IL", "amount": -37.34}
+{"description": "POS 9698 BP# SAN FRANCISC", "amount": -64.04}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -140.93}
+{"description": "SQ *DAVE AND BUSTERS 1919 NEW YORK NY", "amount": -66.23}
+{"description": "POS 7389 KROGER BOSTON MA", "amount": -102.42}
+{"description": "NETFLIX.COM", "amount": -8.29}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 971.01}
+{"description": "ACH DEBIT CON EDISON", "amount": -93.65}
+{"description": "ZELLE TRANSFER ACCT 1889", "amount": -97.22}
+{"description": "VENMO CASHOUT ACCT 6877", "amount": -389.64}
+{"description": "POS 1125 UBER TRIP AUSTIN TX", "amount": -15.66}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -155.35}
+{"description": "POS 3535 LYFT RIDE MIAMI FL", "amount": -12.42}
+{"description": "SQ *DAVE AND BUSTERS 6427 ATLANTA GA", "amount": -88.19}
+{"description": "7-ELEVEN ATM 7858 DENVER CO", "amount": -281.09}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 1314.56}
+{"description": "POS 3370 AMTRAK CHICAGO IL", "amount": -25.69}
+{"description": "NETFLIX.COM", "amount": -65.82}
+{"description": "SQ _A%ZN MKTP US 6488 NEW _ORK NY", "amount": -193.35}
+{"description": "DIRECT DEP PAYCHEX", "amount": 2312.41}
+{"description": "CHASE ATM WITHDRAWAL 1944 AUSTIN TX", "amount": -32.57}
+{"description": "POS 2644 EXXONMOBIL MIAMI FL", "amount": -37.98}
+{"description": "HULU", "amount": -15.71}
+{"description": "POS 8811 DUNKIN DENVER CO", "amount": -55.49}
+{"description": "POS 2127 CHIPOTLE AUSTIN TX", "amount": -24.69}
+{"description": "POS 7484 SHELL OIL SEATTLE WA", "amount": -30.65}
+{"description": "POS 8996 24 HOUR FITNESS SAN FRANCISC", "amount": -132.96}
+{"description": "POS 9561 CHEVRON BOSTON MA", "amount": -66.04}
+{"description": "POS 7658 KROGER ATLANTA GA", "amount": -137.91}
+{"description": "7-ELEVEN ATM 6846 AUSTIN TX", "amount": -272.9}
+{"description": "SQ *MACYS 4534 NEW YORK NY", "amount": -231.81}
+{"description": "SQ *REGAL CINEMAS 8546 SAN FRANCISC", "amount": -22.41}
+{"description": "CHASE ATM WITHDRAWAL 3580 BOSTON MA", "amount": -320.9}
+{"description": "SQ *THE HOME DEPOT 3110 LOS ANGELES CA", "amount": -227.69}
+{"description": "DIRECT DEP PAYCHEX", "amount": 2162.51}
+{"description": "7-ELEVEN ATM 1568 DENVER CO", "amount": -237.06}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 2638.04}
+{"description": "POS 8043 AMTRAK LOS ANGELES CA", "amount": -14.9}
+{"description": "POS 9883 STARBUCKS NEW YORK NY", "amount": -45.89}
+{"description": "POS 7325 BP# CHICAGO IL - DECLINED", "amount": -69.63}
+{"description": "POS 3677 MCDONALDS MIAMI FL", "amount": -25.25}
+{"description": "BANK OF AMERICA ATM 5612 SEATTLE WA", "amount": -110.27}
+{"description": "POS 7843 MTA*NYCT PAYGO SEATTLE WA - CHARGEBACK", "amount": -7.84}
+{"description": "ACH DEBIT CON EDISON", "amount": -74.59}
+{"description": "POS 4527 MCDONALDS SAN FRANCISC", "amount": -9.72}
+{"description": "SQ *TICKETMASTER 6807 SEATTLE WA", "amount": -73.59}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 2277.66}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -99.47}
+{"description": "DISNEY PLUS", "amount": -63.36}
+{"description": "HULU", "amount": -32.9}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -51.13}
+{"description": "POS 7785 MTA*NYCT PAYGO SEATTLE WA", "amount": -12.05}
+{"description": "SQ *THE HOME DEPOT 9300 SEATTLE WA", "amount": -162.71}
+{"description": "POS 7790 WHOLEFDS ATLANTA GA", "amount": -44.67}
+{"description": "VENMO CASHOUT ACCT 6379", "amount": -312.01}
+{"description": "POS 2403 STARBUCKS MIAMI FL", "amount": -49.7}
+{"description": "ZELLE TRANSFER ACCT 9851 - DECLINED", "amount": -364.75}
+{"description": "AMAZON PRIME", "amount": -7.75}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 2007.08}
+{"description": "POS 2713 EXXONMOBIL CHICAGO IL", "amount": -56.38}
+{"description": "POS 6905 PLANET FITNESS SEATTLE WA", "amount": -68.34}
+{"description": "POS 9502 BP# MIAMI FL", "amount": -103.29}
+{"description": "AUTOPAY AT&T*BILL PAYMENT", "amount": -118.25}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -70.56}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1825.33}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1889.29}
+{"description": "7-ELEVEN ATM 6198 CHICAGO IL", "amount": -288.73}
+{"description": "AMAZON PRIME", "amount": -32.52}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 1401.31}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -91.76}
+{"description": "AUTOPAY COMCAST XFINITY", "amount": -153.02}
+{"description": "SQ *AMZN MKTP US 4742 DENVER CO", "amount": -15.6}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -95.67}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 4435", "amount": -315.84}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -114.38}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 8613", "amount": -255.55}
+{"description": "SQ *MACYS 2703 AUSTIN TX", "amount": -139.51}
+{"description": "POS 5458 UBER TRIP MIAMI FL", "amount": -30.8}
+{"description": "POS 6155 DUNKIN AUSTIN TX", "amount": -40.7}
+{"description": "POS 5803 DUNKIN ATLANTA GA", "amount": -53.59}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 1157.78}
+{"description": "7-ELEVEN ATM 3604 LOS ANGELES CA", "amount": -138.23}
+{"description": "POS 7625 CHEVRON AUSTIN TX", "amount": -54.5}
+{"description": "POS 9785 SUBWAY LOS ANGELES CA", "amount": -58.49}
+{"description": "ZELLE TRANSFER ACCT 4617", "amount": -312.27}
+{"description": "ACH DEBIT PGANDE WEB PYMT", "amount": -72.74}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -145.81}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 3128.46}
+{"description": "POS 1993 STARBUCKS BOSTON MA", "amount": -44.78}
+{"description": "ZELLE TRANSFER ACCT 1891", "amount": -427.18}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 2241.21}
+{"description": "CHASE ATM WITHDRAWAL 1788 BOSTON MA", "amount": -186.52}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 3400.56}
+{"description": "POS 6409 SAFEWAY ATLANTA GA", "amount": -64.74}
+{"description": "SQ *DAVE AND BUSTERS 6347 NEW YORK NY", "amount": -60.73}
+{"description": "POS 3851 WHOLEFDS ATLANTA GA", "amount": -107.61}
+{"description": "POS 9837 MCDONALDS DENVER CO", "amount": -55.44}
+{"description": "DISNEY PLUS", "amount": -22.68}
+{"description": "POS 1320 COSTCO WHSE ATLANTA GA - CHARGEBACK", "amount": -75.9}
+{"description": "ZELLE TRANSFER ACCT 4368", "amount": -273.5}
+{"description": "POS 8078 SHELL OIL SAN FRANCISC - PENDING", "amount": -78.3}
+{"description": "POS 3531 MTA*NYCT PAYGO BOSTON MA", "amount": -30.51}
+{"description": "CHASE ATM WITHDRAWAL 7484 SAN FRANCISC", "amount": -282.4}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -96.18}
+{"description": "SQ *MACYS 2934 NEW YORK NY", "amount": -93.73}
+{"description": "DIRECT DEP PAYCHEX", "amount": 1665.71}
+{"description": "POS 9889 SHELL OIL MIAMI FL", "amount": -63.06}
+{"description": "SQ *MACYS 6362 LOS ANGELES CA - PENDING", "amount": -144.98}
+{"description": "SQ *TICKETMASTER 4331 SAN FRANCISC", "amount": -61.74}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -144.6}
+{"description": "HULU", "amount": -79.73}
+{"description": "SQ *MACYS 1908 MIAMI FL", "amount": -216.95}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 3435", "amount": -189.25}
+{"description": "POS 4613 COSTCO WHSE MIAMI FL", "amount": -48.86}
+{"description": "SQ *AMC 34TH ST 14 9584 NEW YORK NY", "amount": -77.13}
+{"description": "POS 5922 CVS/PHARMACY SAN FRANCISC", "amount": -82.27}
+{"description": "SQ *DAVE AND BUSTERS 9856 SAN FRANCISC", "amount": -40.71}
+{"description": "CHASE ATM WITHDRAWAL 4079 MIAMI FL", "amount": -100.33}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -74.37}
+{"description": "DIRECT DEP ADP PAYROLL", "amount": 1538.53}
+{"description": "SQ *BEST BUY 1480 SEATTLE WA", "amount": -28.77}
+{"description": "POS 6764 EXXONMOBIL MIAMI FL", "amount": -51.67}
+{"description": "AUTOPAY 24 HOUR FITNESS", "amount": -25.81}
+{"description": "POS 2512 WAL-MART BOSTON MA", "amount": -151.33}
+{"description": "POS 3161 CVS/PHARMACY SEATTLE WA", "amount": -133.68}
+{"description": "POS 8532 UBER TRIP LOS ANGELES CA", "amount": -39.21}
+{"description": "SQ *AMZN MKTP US 6435 ATLANTA GA", "amount": -62.34}
+{"description": "DIRECT DEP TARGET PAYROLL", "amount": 2410.2}
+{"description": "SQ *DAVE AND BUSTERS 9920 BOSTON MA", "amount": -52.55}
+{"description": "SQ *THE HOME DEPOT 8635 SAN FRANCISC", "amount": -110.53}
+{"description": "SQ *REGAL CINEMAS 9255 SEATTLE WA", "amount": -28.73}
+{"description": "7-ELEVEN ATM 9914 BOSTON MA", "amount": -90.25}
+{"description": "POS 8183 CVS/PHARMACY SEATTLE WA", "amount": -126.47}
+{"description": "SQ *REGAL CINEMAS 6697 LOS ANGELES CA", "amount": -24.28}
+{"description": "POS 9138 SHELL OIL SEATTLE WA", "amount": -92.06}
+{"description": "SPOTIFY USA", "amount": -38.53}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -38.44}
+{"description": "POS 6314 SHELL OIL NEW YORK NY", "amount": -53.47}
+{"description": "POS 5583 MTA*NYCT PAYGO NEW YORK NY", "amount": -31.99}
+{"description": "NETFLIX.COM", "amount": -43.08}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 6143", "amount": -358.82}
+{"description": "ACH DEBIT PGANDE WEB PYMT", "amount": -211.99}
+{"description": "POS 1441 COSTCO WHSE BOSTON MA", "amount": -111.44}
+{"description": "SQ *AMC 34TH ST 14 8846 AUSTIN TX", "amount": -65.65}
+{"description": "AMAZON PRIME", "amount": -33.25}
+{"description": "BANK OF AMERICA ATM 3909 MIAMI FL", "amount": -243.01}
+{"description": "GOOGLE *YOUTUBEPREM", "amount": -28.9}
+{"description": "DIRECT DEP STARBUCKS PAYROLL", "amount": 2039.56}
+{"description": "ACH DEBIT CON EDISON", "amount": -59.19}
+{"description": "AUTOPAY PLANET FITNESS", "amount": -121.27}
+{"description": "BANK OF AMERICA ATM 2274 AUSTIN TX", "amount": -151.79}
+{"description": "POS 2647 EXXONMOBIL AUSTIN TX", "amount": -53.7}
+{"description": "POS 2169 CHICK-FIL-A ATLANTA GA", "amount": -39.56}
+{"description": "POS 4588 EXXONMOBIL AUSTIN TX", "amount": -79.67}
+{"description": "POS 5526 EXXONMOBIL DENVER CO", "amount": -30.81}
+{"description": "POS 7062 LYFT RIDE SEATTLE WA", "amount": -33.31}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -33.59}
+{"description": "POS 4681 SHELL OIL LOS ANGELES CA", "amount": -66.92}
+{"description": "SQ *DAVE AND BUSTERS 5836 CHICAGO IL", "amount": -25.7}
+{"description": "7-ELEVEN ATM 2453 SAN FRANCISC", "amount": -189.72}
+{"description": "AUTOPAY PGANDE WEB PYMT", "amount": -161.02}
+{"description": "SQ *AMZN MKTP US 5240 LOS ANGELES CA", "amount": -20.12}
+{"description": "CHASE ATM WITHDRAWAL 7705 DENVER CO", "amount": -294.37}
+{"description": "HULU", "amount": -37.19}
+{"description": "AUTOPAY CVS/PHARMACY", "amount": -54.89}
+{"description": "POS 9165 CHEVRON SEATTLE WA", "amount": -70.71}
+{"description": "POS 4920 SHELL OIL CHICAGO IL - FRAUD ALERT", "amount": -54.86}
+{"description": "POS 8451 UBER TRIP SAN FRANCISC", "amount": -31.26}
+{"description": "POS 5055 PLANET FITNESS SEATTLE WA", "amount": -78.47}
+{"description": "ZELLE TRANSFER ACCT 7371", "amount": -126.42}
+{"description": "POS 9864 BP# NEW YORK NY", "amount": -79.4}
+{"description": "POS 9056 BP# LOS ANGELES CA", "amount": -67.6}
+{"description": "CHASE QUICKPAY TRANSFER ACCT 5671", "amount": -313.56}
+{"description": "POS 7547 WHOLEFDS AUSTIN TX", "amount": -36.79}
+{"description": "POS 1387 TARGET AUSTIN TX", "amount": -78.94}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -187.99}
+{"description": "POS 2729 WHOLEFDS BOSTON MA", "amount": -173.41}
+{"description": "VENMO CASHOUT ACCT 1504", "amount": -242.25}
+{"description": "AUTOPAY AT&T*BILL PAYMENT - DECLINED", "amount": -181.22}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -76.6}
+{"description": "POS 2824 CHICK-FIL-A NEW YORK NY", "amount": -45.53}
+{"description": "SQ *BEST BUY 9907 NEW YORK NY", "amount": -247.51}
+{"description": "AMAZON PRIME", "amount": -8.33}
+{"description": "POS 5342 MCDONALDS DENVER CO", "amount": -52.86}
+{"description": "POS 9115 24 HOUR FITNESS DENVER CO", "amount": -94.45}
+{"description": "POS 8046 LYFT RIDE MIAMI FL", "amount": -40.3}
+{"description": "SQ *BEST BUY 2551 MIAMI FL", "amount": -38.95}
+{"description": "SQ *TICKETMASTER 2514 DENVER CO", "amount": -67.97}
+{"description": "ACH DEBIT COMCAST XFINITY", "amount": -48.5}
+{"description": "POS 8973 DUNKIN CHICAGO IL", "amount": -14.63}
+{"description": "POS 2876 STARBUCKS DENVER CO", "amount": -46.05}
+{"description": "SQ *BEST BUY 6799 AUSTIN TX", "amount": -228.45}
+{"description": "POS 1992 AMTRAK BOSTON MA", "amount": -14.59}
+{"description": "NETFLIX.COM", "amount": -71.71}
+{"description": "POS 5956 DUNKIN ATLANTA GA", "amount": -59.1}
+{"description": "SQ *BEST BUY 7337 ATLANTA GA", "amount": -113.9}
+{"description": "POS 9085 DUNKIN LOS ANGELES CA", "amount": -46.32}
+{"description": "POS 4681 MCDONALDS LOS ANGELES CA", "amount": -22.93}
+{"description": "ACH DEBIT PGANDE WEB PYMT", "amount": -207.74}
+{"description": "SQ *TICKETMASTER 1251 AUSTIN TX", "amount": -84.97}
+{"description": "POS 9071 AMTRAK LOS ANGELES CA", "amount": -7.08}
+{"description": "BANK OF AMERICA ATM 3029 NEW YORK NY", "amount": -111.94}
+{"description": "SQ *MACYS 7363 SEATTLE WA", "amount": -57.26}
+{"description": "DISNEY PLUS", "amount": -61.05}
+{"description": "ACH DEBIT AT&T*BILL PAYMENT", "amount": -57.67}
+{"description": "SQ *MACYS 7492 DENVER CO", "amount": -26.5}
+{"description": "POS 8007 SAFEWAY DENVER CO", "amount": -13.62}
+{"description": "SQ *TICKETMASTER 7311 NEW YORK NY", "amount": -33.35}
+{"description": "DISNEY PLUS", "amount": -10.04}
+{"description": "AUTOPAY CON EDISON", "amount": -127.98}
+{"description": "ACH DEBIT PGANDE WEB PYMT", "amount": -184.61}
+{"description": "BANK OF AMERICA ATM 6257 SEATTLE WA", "amount": -296.94}
+{"description": "POS 9697 AMTRAK DENVER CO", "amount": -41.37}
+{"description": "DIRECT DEP PAYCHEX", "amount": 3260.31}
+{"description": "CHASE ATM WITHDRAWAL 2425 BOSTON MA", "amount": -231.42}
